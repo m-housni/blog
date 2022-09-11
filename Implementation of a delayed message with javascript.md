@@ -1,4 +1,4 @@
-# Delayed Message
+# Delayed Messages
 Implementation of a delayed message with javascript using promise object and async/await function
 
 ``` javascript
